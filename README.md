@@ -2,7 +2,7 @@
 
 I'm a frontend devolper with little backend knowledge and have 2 years of experience in the tech industry.
 
-I'm currently specializing with javascript both in backend and frontend, a little bit of flutter and 
+I'm currently specializing with javascript both in backend and frontend, a little bit of flutter and <br>
 other languagedepending on the project.
 
 I'm open to help in open source or other projects.
